@@ -1,0 +1,11 @@
+D:\main\town_suite\WorkTermProjects\SupportTraining\bin\Debug\netcoreapp3.0\SupportTraining.exe
+D:\main\town_suite\WorkTermProjects\SupportTraining\bin\Debug\netcoreapp3.0\SupportTraining.deps.json
+D:\main\town_suite\WorkTermProjects\SupportTraining\bin\Debug\netcoreapp3.0\SupportTraining.runtimeconfig.json
+D:\main\town_suite\WorkTermProjects\SupportTraining\bin\Debug\netcoreapp3.0\SupportTraining.runtimeconfig.dev.json
+D:\main\town_suite\WorkTermProjects\SupportTraining\bin\Debug\netcoreapp3.0\SupportTraining.dll
+D:\main\town_suite\WorkTermProjects\SupportTraining\bin\Debug\netcoreapp3.0\SupportTraining.pdb
+D:\main\town_suite\WorkTermProjects\SupportTraining\obj\Debug\netcoreapp3.0\SupportTraining.csprojAssemblyReference.cache
+D:\main\town_suite\WorkTermProjects\SupportTraining\obj\Debug\netcoreapp3.0\SupportTraining.AssemblyInfoInputs.cache
+D:\main\town_suite\WorkTermProjects\SupportTraining\obj\Debug\netcoreapp3.0\SupportTraining.AssemblyInfo.cs
+D:\main\town_suite\WorkTermProjects\SupportTraining\obj\Debug\netcoreapp3.0\SupportTraining.dll
+D:\main\town_suite\WorkTermProjects\SupportTraining\obj\Debug\netcoreapp3.0\SupportTraining.pdb
